@@ -129,3 +129,29 @@ Coming back to the tree comparison, there are few images that better describe th
 
 
 <p align="center"><img width=50% src="https://github.com/EMNESS-project-group2/aes-cryptocore/blob/main/doc/media/branch.png"></p>
+
+<p align="center"><img width=50% src="https://github.com/EMNESS-project-group2/aes-cryptocore/blob/main/doc/media/branch1.png"></p>
+
+if you type
+```bash
+git branch
+```
+it will show you the branch that you are using.
+
+For adding a new branch (don't do it now)
+```bash
+git checkout -b feature-NEWFEATURENAME
+```
+
+For changing branches
+
+```bash
+git branch NAMEOFTHEBRANCH
+```
+
+You now can work as usual in the new branche you have just created. To push to your branch
+
+```bash
+git push -u origin feature-NEWFREATURENAME
+```
+
