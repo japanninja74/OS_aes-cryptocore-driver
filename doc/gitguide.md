@@ -125,9 +125,13 @@ meld .
 
 # Git Branching
 
-Coming back to the tree comparison, there are few images that better describe the branching
+Coming back to the tree comparison,
 
+<<<<<<< HEAD
 
 <p align="center"><img width=50% src="(https://github.com/EMNESS-project-group2/aes-cryptocore/blob/main/doc/media/branch)"></p>
   
   
+=======
+![alt text](https://github.com/EMNESS-project-group2/aes-cryptocore/blob/main/branch.png?raw=true)
+>>>>>>> a64d208 (Automated sync:  M doc/gitguide.md)
