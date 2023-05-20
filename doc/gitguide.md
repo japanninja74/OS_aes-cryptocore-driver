@@ -128,4 +128,4 @@ meld .
 Coming back to the tree comparison, there are few images that better describe the branching
 
 
-<p align="center"><img width=50% src="https://github.com/EMNESS-project-group2/aes-cryptocore/doc/media/branch"></p>
+<p align="center"><img width=50% src="[https://github.com/EMNESS-project-group2/aes-cryptocore/doc/media/branch](https://github.com/EMNESS-project-group2/aes-cryptocore/blob/main/doc/media/branch)"></p>
