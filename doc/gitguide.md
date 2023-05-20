@@ -127,15 +127,5 @@ meld .
 
 Coming back to the tree comparison,
 
-<<<<<<< HEAD
-![alt text](https://github.com/EMNESS-project-group2/aes-cryptocore/blob/main/branch.png?raw=true)
-=======
-<<<<<<< HEAD
+![](https://github.com/EMNESS-project-group2/aes-cryptocore/blob/main/branch.png?raw=true)
 
-<p align="center"><img width=50% src="(https://github.com/EMNESS-project-group2/aes-cryptocore/blob/main/doc/media/branch)"></p>
-  
-  
-=======
-![alt text](https://github.com/EMNESS-project-group2/aes-cryptocore/blob/main/branch.png?raw=true)
->>>>>>> a64d208 (Automated sync:  M doc/gitguide.md)
->>>>>>> b6a0d5970692cd2004baf046b8b29191ff6326b7
