@@ -20,7 +20,7 @@ Create a ssh-key
 ```bash
 cd ~/.ssh
 
-ssh-keygen -o -t rsa -C "sXXXXXX@studenti.polito.it"
+ssh-keygen -o -t rsa -C "your email"
 
 cat id_rsa.pub
 ```
@@ -33,7 +33,7 @@ Now you are ready. Create a folder inside your home or wherever you want that wi
 
 Go to https://github.com/EMNESS-project-group2/aes-cryptocore
 
-Click on Code -> SSH. Copy the link git@github.com:EMNESS-project-group2/aes-cryptocore.git. This is the procedure for all the repository you will clone in the future.
+Click on Code -> SSH. Copy the link "git@github.com:EMNESS-project-group2/aes-cryptocore.git". This is the procedure for all the repository you will clone in the future.
 
 Now go on your repo folder and hit
 
@@ -60,18 +60,19 @@ git status
 ```
 Something like that should appear
 
+```bash
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-
+```
 If you want to add a file that you have just created to the repository
 ```bash
 git add <name_file>
 ```
 or 
 ```bash
-git add *
+git add .
 ```
-for adding all the files you have created
+for adding all the files you have created (you need to stay in the correct folder..).
 
 Digit again git status, what do you see?
 
@@ -84,7 +85,7 @@ or
 ```bash
 git commit
 ```
-and a window will open to give you the possibility to write a message. Remember to always write a message that describes the changes that you did
+In the latter a window will open to give you the possibility to write a message. Remember to always write a message that describes the changes that you did
 
 4. Now, you  need to put your commit on gitHUB.
 
@@ -146,7 +147,7 @@ git checkout -b feature-NEWFEATURENAME
 For changing branches
 
 ```bash
-git branch NAMEOFTHEBRANCH
+git checkout NAMEOFTHEBRANCH
 ```
 
 You now can work as usual in the new branche you have just created. To push to your branch
