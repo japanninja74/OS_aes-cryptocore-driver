@@ -368,13 +368,18 @@ You can eject the SD and put into the board, you're ready to go!
 
 ## Authors 
 Riccardo Carità
+
 Gianluca Corso
+
 Riccardo Fusari
+
 Federico Fruttero
 
 ## Reviewers
 Francesco Corvaglia
+
 Niccolò Lentini
+
 Amalia Vittoria Montemurro
 
 
