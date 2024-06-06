@@ -367,20 +367,20 @@ tar -xzvf $(PETAPROJECT)/images/linux/rootfs.tar.gz
 You can eject the SD and put into the board, you're ready to go!
 
 ## Authors 
-Riccardo Carità
+[Riccardo Carità](https://github.com/Karrick99)
 
-Gianluca Corso
+[Gianluca Corso](https://github.com/gianluc99)
 
-Riccardo Fusari
+[Riccardo Fusari](https://github.com/riccardofusari)
 
-Federico Fruttero
+[Federico Fruttero](https://github.com/fedefruttero)
 
 ## Reviewers
-Francesco Corvaglia
+[Francesco Corvaglia](https://github.com/ElCeqo)
 
-Niccolò Lentini
+[Niccolò Lentini](https://github.com/niccolentini)
 
-Amalia Vittoria Montemurro
+[Amalia Vittoria Montemurro](https://github.com/amaliamon)
 
 
 
